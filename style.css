@@ -1,0 +1,9 @@
+.block_one {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.header {
+    flex: 1;
+    display: flex;
+}
